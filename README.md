@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Olanrewaju-ola
-- 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in learning web development
+- 🌱 I’m currently learning JavaScript, PHP, css and html
 - 💞️ I’m looking to collaborate on various kinds of development projects
 - 📫 You can reach me via email @olanrewaju226@gmail.com
 
